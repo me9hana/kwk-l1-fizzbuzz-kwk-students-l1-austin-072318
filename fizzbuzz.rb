@@ -6,7 +6,7 @@ elsif num % 3 == 0
 elsif num % 5 == 0
   return "Buzz"
 else
-  nil
+  return nil
   end
 end
 number(45)
