@@ -9,4 +9,4 @@ else
   return nil
   end
 end
-number(15)
+fizzbuzz(15)
